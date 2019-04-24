@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Bastion",
+      "image": "../public/images/bastion.png"
+    },
+    {
+        "id": 2,
+        "name": "Hanzo",
+        "image": "../public/images/hanzo.png"
+      },
+      {
+        "id": 3,
+        "name": "Junkrat",
+        "image": "../public/images/junkrat.png"
+      },
+      {
+        "id": 4,
+        "name": "Mcree",
+        "image": "../public/images/mcree.png"
+      },
+      {
+        "id": 5,
+        "name": "Pharah",
+        "image": "../public/images/pharah.png"
+      },
+      {
+        "id": 6,
+        "name": "Reinhardt",
+        "image": "../public/images/reinhardt.png"
+      },
+      {
+        "id": 7,
+        "name": "Roadhog",
+        "image": "../public/images/roadhog.png"
+      },
+      {
+        "id": 8,
+        "name": "Torbjorn",
+        "image": "../public/images/torbjorn.png"
+      },
+      {
+        "id": 9,
+        "name": "Widowmaker",
+        "image": "../public/images/widowmaker.png"
+      },
+      {
+        "id": 10,
+        "name": "Winston",
+        "image": "../public/images/winston.png"
+      },
+      {
+        "id": 11,
+        "name": "Zarya",
+        "image": "../public/images/zarya.png"
+      },
+      {
+        "id": 12,
+        "name": "Zenyatta",
+        "image": "../public/images/zenyatta.png"
+      }
+
+]
